@@ -26,11 +26,11 @@ This is not a textbook. Every file here has been used in real delivery contexts.
 
 ## How to use this
 
-Each file is standalone. Open it, read the facilitator notes at the top, adapt to your team's context, and use it. Nothing here requires a tool or paid platform — it all works in a whiteboard, Confluence, or Miro.
+Each file is standalone. Open it, read the facilitator notes at the top, adapt to your team's context, and use it. Nothing here requires a tool or paid platform - it all works in a whiteboard, Confluence, or Miro.
 
 ---
 
 ## Author
 
-**Sudindra Purohit** — CSM® | Scrum Master | Bengaluru, India
+**Sudindra Purohit** - CSM® | Scrum Master | Bengaluru, India
 [LinkedIn](https://linkedin.com/in/sudindra-p-846a9a1b6) · [GitHub](https://github.com/SudindraPurohit)
