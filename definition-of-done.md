@@ -6,11 +6,11 @@
 
 ## What is the Definition of Done?
 
-The DoD is the team's shared understanding of what "complete" means for any piece of work. A story is not done when development is finished — it is done when every item on this list is satisfied.
+The DoD is the team's shared understanding of what "complete" means for any piece of work. A story is not done when development is finished - it is done when every item on this list is satisfied.
 
 ---
 
-## DoD Checklist — Standard Template
+## DoD Checklist - Standard Template
 
 ### Code Quality
 - [ ] Code written and peer-reviewed (minimum 1 reviewer)
@@ -57,8 +57,8 @@ The DoD is the team's shared understanding of what "complete" means for any piec
 
 1. Present this as a starting draft in Sprint 0 or your first retrospective
 2. Ask: *"Is there anything here we can't commit to yet? Is there anything missing that matters to us?"*
-3. Agree on the final version as a team — document it in Confluence or pin it to your Jira board
-4. Review it every quarter in retrospective — ask: *"Is our DoD making us better, or is it just a checkbox exercise?"*
+3. Agree on the final version as a team - document it in Confluence or pin it to your Jira board
+4. Review it every quarter in retrospective - ask: *"Is our DoD making us better, or is it just a checkbox exercise?"*
 
 ---
 
@@ -66,7 +66,7 @@ The DoD is the team's shared understanding of what "complete" means for any piec
 
 | Anti-pattern | What it looks like | Fix |
 |---|---|---|
-| DoD ignored under pressure | "We'll skip the regression this sprint, we're behind" | Hold the line — a story is not done. Log the risk explicitly. |
+| DoD ignored under pressure | "We'll skip the regression this sprint, we're behind" | Hold the line - a story is not done. Log the risk explicitly. |
 | DoD too vague | "Code is clean" | Make it measurable: "Code reviewed by at least 1 team member" |
 | DoD too strict for current maturity | Team fails DoD every sprint | Calibrate to current capability, improve incrementally |
 | PO not involved in sign-off | Stories closed without PO review | Add PO acceptance as a hard gate, not optional |
